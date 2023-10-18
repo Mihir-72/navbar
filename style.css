@@ -1,0 +1,32 @@
+/* .h1{
+  width: 50%;
+} */
+
+/* .h1{
+  display: inline-block;
+  width: 50%;
+} */
+
+.h2 p{
+  margin-left: 954px;
+  font-size: 20px;
+  margin-top: 4px;
+}
+span{
+  color: red;
+}
+.space{
+  margin-left: 214px;
+  font-size: 19px;
+}
+/* .header{
+  display: inline;
+  display: grid;
+  grid-template-columns: 10% 90%;
+} */
+/* .h1,.h2{
+ width: 50% !important;
+}  */
+
+
+
